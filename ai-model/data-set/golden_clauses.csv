@@ -1,0 +1,26 @@
+,clause_type,standard_clause,note
+0,Termination,Either party may terminate this Agreement with 30 days written notice. Termination does not relieve obligations already accrued.,Mutual and fair — gives both parties an exit path with time to transition.
+1,Payment,Fees must be invoiced in advance. Client may dispute charges within 14 days. Refunds apply if services are undelivered.,"Standard SaaS billing norm — clear expectations, refund safety net."
+2,Pricing,"Vendor must notify clients of any pricing changes at least 30 days before renewal, with opt-out option.",Legally required in most jurisdictions; protects from surprise charges.
+3,Promotions,Promotions and discounts shall be time-bound and will not auto-renew unless explicitly agreed.,"Stops abuse of fine print auto-renewal, promotes transparency."
+4,Collections,Collections may begin only after a 10-day grace period post due date and two written reminders.,Fair process ensures billing errors or miscommunications are addressed first.
+5,Support,Standard support must be included at no extra cost. Premium support must be optional and clearly priced.,"Best practice from Atlassian, GitHub, and many top SaaS firms."
+6,Nonpayment Termination,"If payment is not received within 10 days of the due date, the vendor may suspend services with a 3-day prior notice.",Allows escalation but gives customer buffer — avoids instant cutoff.
+7,Data Handling,"Upon termination, customer must have 30 days to export data. Data is deleted securely post that per compliance standards.","Standard under GDPR, CCPA, and most SaaS ToS; aligns with trust-based data use."
+8,Responsibilities,Client is responsible for end user behavior but vendor must provide admin tools to monitor and restrict access.,Balance of responsibility — aligns with Common Paper legal templates.
+9,End User Violations,Vendor will notify client before taking punitive action based on end-user behavior and provide proof of violation.,Prevents abuse by vendor; ensures fair handling of user behavior.
+10,Data Liability,Vendor shall take commercially reasonable steps to secure data and notify client of any known breach within 48 hours.,"SOC 2, GDPR, and ISO 27001 alignment — critical for B2B clients."
+11,Use Investigation,Vendor may investigate usage violations but must notify client and provide justification before account suspension.,Prevents shadow suspensions; supports accountability and transparency.
+12,Renewal,The contract will auto-renew for successive one-year terms unless either party gives 60 days’ prior written notice.,
+13,Refunds,Client is entitled to a pro-rata refund for any unused subscription period upon early termination.,
+14,Pricing,The pricing listed in the Order Form is valid for the duration of the contract and is not subject to increase.,
+15,SLAs,Vendor will respond to critical support issues within 2 hours and resolve within 8 hours.,
+16,Data Rights,Client retains full ownership of all data submitted to the platform.,
+17,Confidentiality,Each party agrees to protect the other’s Confidential Information with the same degree of care it uses for its own.,
+18,Jurisdiction,This Agreement shall be governed by the laws of the State of California.,
+19,Liability,Neither party shall be liable for indirect or consequential damages.,
+20,Indemnity,Vendor agrees to indemnify the Client against any third-party IP infringement claims.,
+21,Force Majeure,Neither party shall be held liable for failure to perform due to circumstances beyond their control.,
+22,Audit Rights,Client may audit Vendor’s security and compliance practices with 30 days’ notice.,
+23,Security,Vendor must comply with SOC 2 Type II and notify Client within 48 hours of any data breach.,
+24,IP Ownership,All intellectual property created during the engagement remains the exclusive property of the Client.,

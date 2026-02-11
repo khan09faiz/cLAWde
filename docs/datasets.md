@@ -14,6 +14,14 @@ The project leverages multiple datasets for different purposes:
 
 **Source:** [mratanusarkar/Indian-Laws](https://huggingface.co/datasets/mratanusarkar/Indian-Laws)
 
+**How to Load:**
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset("mratanusarkar/Indian-Laws")
+```
+
 | Property | Detail                    |
 | -------- | ------------------------- |
 | Type     | Statutes text (bare Acts) |
@@ -44,6 +52,14 @@ The project leverages multiple datasets for different purposes:
 ## 2. Indian Law Q&A Dataset (HuggingFace)
 
 **Source:** [viber1/indian-law-dataset](https://huggingface.co/datasets/viber1/indian-law-dataset)
+
+**How to Load:**
+
+```python
+from datasets import load_dataset
+
+ds = load_dataset("viber1/indian-law-dataset")
+```
 
 | Property | Detail                                 |
 | -------- | -------------------------------------- |
